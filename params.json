@@ -1,0 +1,9 @@
+{
+    "input_dim":        [100,100,1],
+    "arch":             3,
+    "n_epochs":         100,
+    "with_cpu":         false,
+    "verbose":          true,
+    "file_save":        "./model.h5",
+    "save_best":        "./best_params_cnn.json"
+}

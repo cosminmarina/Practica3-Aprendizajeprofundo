@@ -1,0 +1,1 @@
+{"filter1": 112, "filter2": 32, "kernel1": 2, "kernel2": 4, "activation1": "selu", "activation2": "selu", "optimizer": "adam"}
